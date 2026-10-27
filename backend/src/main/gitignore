@@ -1,0 +1,5 @@
+backend/target/
+.env
+.env.*
+!.env.example
+*.log
