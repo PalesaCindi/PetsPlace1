@@ -1,0 +1,9 @@
+com\petsplace\ApiError.class
+com\petsplace\DBConnection.class
+com\petsplace\ApiExceptionHandler.class
+com\petsplace\DatabaseTestController.class
+com\petsplace\Passwords.class
+com\petsplace\CatalogService$1.class
+com\petsplace\PetsPlaceApplication.class
+com\petsplace\ApiController.class
+com\petsplace\CatalogService.class
